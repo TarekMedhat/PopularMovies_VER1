@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="mark_as_favorite">MARK AS \nFAVORITE</string>
+    <string name="index">INDEX</string>
+    <string name="marked_as_favorite">MARKED AS  FAVORITE</string>
+    <string name="movie_poster">Movie Poster</string>
+</resources>
